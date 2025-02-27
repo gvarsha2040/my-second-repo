@@ -1,1 +1,1 @@
-My first commit with stash`trying
+My first commit
